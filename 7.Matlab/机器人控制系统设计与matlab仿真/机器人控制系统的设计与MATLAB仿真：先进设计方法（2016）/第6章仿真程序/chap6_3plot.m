@@ -1,0 +1,37 @@
+close all;
+
+figure(1);
+subplot(411);
+plot(t,z(:,1),'b',t,zp(:,1),'r:','linewidth',2);
+xlabel('t');ylabel('z1');
+legend('z1','z1p');
+subplot(412);
+plot(t,z(:,2),'b',t,zp(:,2),'r:','linewidth',2);
+xlabel('t');ylabel('z2');
+legend('z2','z2p');
+subplot(413);
+plot(t,z(:,3),'b',t,zp(:,3),'r:','linewidth',2);
+xlabel('t');ylabel('z3');
+legend('z3','z3p');
+subplot(414);
+plot(t,z(:,4),'b',t,zp(:,4),'r:','linewidth',2);
+xlabel('t');ylabel('z4');
+legend('z4','z4p');
+
+figure(2);
+subplot(411);
+plot(t,z(:,1)-zp(:,1),'r','linewidth',2);
+xlabel('t');ylabel('z1 estimation error');
+legend('z1-z1p');
+subplot(412);
+plot(t,z(:,2)-zp(:,2),'r','linewidth',2);
+xlabel('t');ylabel('z2 estimation error');
+legend('z2-z2p');
+subplot(413);
+plot(t,z(:,3)-zp(:,3),'r','linewidth',2);
+xlabel('t');ylabel('z3 estimation error');
+legend('z3-z3p');
+subplot(414);
+plot(t,z(:,4)-zp(:,4),'r','linewidth',2);
+xlabel('t');ylabel('z4 estimation error');
+legend('z4-z4p');

@@ -1,0 +1,13 @@
+imu_reg_fun.c:33:9:mpu_write_byte	24	static
+imu_reg_fun.c:53:9:mpu_read_byte	24	static
+imu_reg_fun.c:72:9:mpu_read_bytes	24	static
+imu_reg_fun.c:94:13:ist_8310_reg_write_by_mpu_i2c_master	16	static
+imu_reg_fun.c:117:16:ist_8310_reg_read_by_mpu_i2c_master	24	static
+imu_reg_fun.c:139:13:mpu_master_i2c_auto_read_config	16	static
+imu_reg_fun.c:180:9:ist8310_init	16	static
+imu_reg_fun.c:274:9:mpu6500_set_rate	24	static
+imu_reg_fun.c:291:9:mpu6500_set_lpf	24	static
+imu_reg_fun.c:313:9:mpu6500_set_gyro_fsr	16	static
+imu_reg_fun.c:326:9:mpu6500_set_accel_fsr	16	static
+imu_reg_fun.c:348:9:i2c_write	16	static
+imu_reg_fun.c:377:9:i2c_read	16	static

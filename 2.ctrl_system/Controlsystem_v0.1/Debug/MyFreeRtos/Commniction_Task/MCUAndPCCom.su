@@ -1,0 +1,7 @@
+MCUAndPCCom.c:40:26:Get_MyRXCtrlDataPoint	4	static
+MCUAndPCCom.c:55:6:Usart3Tx_DmaInit	4	static
+MCUAndPCCom.c:77:6:MCU_To_PC_SendData	16	static
+MCUAndPCCom.c:100:6:Usart3Rx_Init	8	static
+MCUAndPCCom.c:114:6:Usart3Rx_DMAInit	24	static
+MCUAndPCCom.c:145:6:Usart3Rx_DMA_IRQHandle	24	static
+MCUAndPCCom.c:211:6:myUsart3RXDataHandle	16	static

@@ -1,0 +1,5 @@
+Motor_behaviour.c:44:6:chassis_behaviour_mode_set	16	static
+Motor_behaviour.c:80:6:chassis_behaviour_ctrl_var_set	16	static
+Motor_behaviour.c:110:13:motor_brake_move_control	16	static
+Motor_behaviour.c:130:13:motor_speed_pid_ctrl_vector	16	static
+Motor_behaviour.c:149:13:motor_position_pid_ctrl_vector	64	static

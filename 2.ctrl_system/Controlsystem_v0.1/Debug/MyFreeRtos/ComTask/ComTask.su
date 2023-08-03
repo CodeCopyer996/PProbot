@@ -1,0 +1,5 @@
+ComTask.c:50:6:comTask	32	static
+ComTask.c:125:6:USART3ComModeChoose	16	static
+ComTask.c:143:6:NRFComModeChoose	24	static
+ComTask.c:173:6:Run_DataSend_Handle	24	static
+ComTask.c:220:6:Motor_data_packHandle	16	static

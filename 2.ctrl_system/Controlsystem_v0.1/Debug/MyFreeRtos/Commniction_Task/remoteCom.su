@@ -1,0 +1,5 @@
+remoteCom.c:31:6:RemoteDataProcess	16	static
+remoteCom.c:85:6:Usart1_Recieve_IRQ_Handle	24	static
+remoteCom.c:100:13:usart_receive_buffer	24	static
+remoteCom.c:123:6:dr16_uart_dma_init	24	static
+remoteCom.c:137:12:UART_Receive_DMA_No_IT	32	static

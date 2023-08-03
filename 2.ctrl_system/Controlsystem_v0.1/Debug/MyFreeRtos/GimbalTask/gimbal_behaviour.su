@@ -1,0 +1,5 @@
+gimbal_behaviour.c:33:9:gimbal_motor_ctrl_mode_set	16	static
+gimbal_behaviour.c:56:9:gimbal_motor_ctrl_mode_action_set	16	static
+gimbal_behaviour.c:82:13:gimbal_motor_rt_ctrl	16	static
+gimbal_behaviour.c:101:13:gimbal_yaw_zero_angle_set	16	static
+gimbal_behaviour.c:121:13:gimbal_yaw_moto_ctrl	32	static

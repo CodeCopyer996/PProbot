@@ -1,0 +1,8 @@
+Motor_task.c:67:6:Motordrive_task	48	static
+Motor_task.c:182:13:chassisFeedbackDatainit	32	static
+Motor_task.c:197:13:chassisComFeedbackUpdata	24	static
+Motor_task.c:220:13:chassis_init	32	static
+Motor_task.c:269:13:chassis_set_mode	16	static
+Motor_task.c:286:13:chassis_feedback_updata	24	static
+Motor_task.c:382:13:chassis_set_ctrl	32	static
+Motor_task.c:409:13:chassis_loop_ctrl	32	static

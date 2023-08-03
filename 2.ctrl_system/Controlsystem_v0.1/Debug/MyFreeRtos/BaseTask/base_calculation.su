@@ -1,0 +1,5 @@
+base_calculation.c:23:6:Fast_inv_square	32	static
+base_calculation.c:42:6:first_order_filter_init	24	static
+base_calculation.c:58:6:first_order_filter_calculation	16	static
+base_calculation.c:76:7:loop_fp32_constrain	32	static
+base_calculation.c:107:6:fp32_constrain	24	static

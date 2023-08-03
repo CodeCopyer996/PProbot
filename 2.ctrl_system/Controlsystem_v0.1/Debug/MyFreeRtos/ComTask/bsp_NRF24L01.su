@@ -1,0 +1,5 @@
+bsp_NRF24L01.c:38:9:NRF24L01_Write_Byte	32	static
+bsp_NRF24L01.c:57:9:NRF24L01_Read_Byte	32	static
+bsp_NRF24L01.c:79:9:NRF24L01_Read_Bytes	32	static
+bsp_NRF24L01.c:113:9:NRF24L01_Write_Bytes	32	static
+bsp_NRF24L01.c:144:6:NRF24L01_PowerCtrl	16	static

@@ -1,0 +1,7 @@
+chassis_behaviour.c:46:6:chassis_behaviour_mode_set	16	static
+chassis_behaviour.c:95:6:chassis_behaviour_ctrl_var_set	24	static
+chassis_behaviour.c:128:13:chassis_no_move_control	24	static
+chassis_behaviour.c:148:13:chassis_follow_chassis_ctrl	40	static
+chassis_behaviour.c:178:13:chassis_rc_dir_ctrl_vector	24	static
+chassis_behaviour.c:197:13:motor_speed_pid_ctrl_vector	24	static
+chassis_behaviour.c:217:13:remote_dirctrl_wheel_speed	24	static

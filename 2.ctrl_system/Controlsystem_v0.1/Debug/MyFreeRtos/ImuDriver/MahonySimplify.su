@@ -1,0 +1,4 @@
+MahonySimplify.c:21:7:inv_sqrt	32	static
+MahonySimplify.c:44:6:Simp_quaternion_init	56	static
+MahonySimplify.c:178:6:Simp_Quternion_Update	200	static
+MahonySimplify.c:319:6:Simp_euler_update	56	static

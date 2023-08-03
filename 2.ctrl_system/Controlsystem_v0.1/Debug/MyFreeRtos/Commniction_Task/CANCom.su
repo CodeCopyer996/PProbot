@@ -1,0 +1,7 @@
+CANCom.c:45:6:can_filter_init_recv_all	48	static
+CANCom.c:99:6:can1_send_set_moto_current	32	static
+CANCom.c:165:6:CAN_send_set_moto_id	32	static
+CANCom.c:199:6:HAL_CAN_RxFifo0MsgPendingCallback	16	static
+CANCom.c:211:6:CAN_RX_Feedback_Data_Handle	4	static
+CANCom.c:237:6:__test_fun_	32	static
+CANCom.c:253:23:get_chassis_motor_measure_point	16	static

@@ -1,0 +1,12 @@
+base_task.c:30:1:__io_putchar	16	static
+base_task.c:44:6:Usart2_Send_Data	16	static
+base_task.c:127:7:Led0_Delay	16	static
+base_task.c:136:7:Led1_Delay	16	static
+base_task.c:152:10:Key_Scan	8	static
+base_task.c:171:7:ctrl_power_enable	16	static
+base_task.c:195:7:switch_ctrl_power	16	static
+base_task.c:220:7:myDelay_us	24	static
+base_task.c:244:7:ADC1_IN8_ReferenceVoltage	16	static
+base_task.c:259:11:ADC1_IN8_GetCurrentVoltage	16	static
+base_task.c:276:11:adcx_get_chx_value	16	static
+base_task.c:307:7:Buzzer_Control	16	static

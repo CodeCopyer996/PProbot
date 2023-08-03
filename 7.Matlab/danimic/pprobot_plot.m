@@ -1,0 +1,10 @@
+L1=Link([pi/2 0 0 0],'modified');
+L2=Link([-pi/2 0.02 0 -pi/2],'modified');
+L3=Link([0 0 0.22 0],'modified');
+L4=Link([0 0.24 0.045 -pi/2],'modified');
+b = isrevolute(L1);
+robot = SerialLink([L1,L2,L3,L4]);
+robot.name = 'PProbot_MDH';
+%robot.plot([pi/2 -pi/2 0 0]);
+robot.teach([0 -pi/2 0 0]);
+robot.display();

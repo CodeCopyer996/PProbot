@@ -1,0 +1,4 @@
+Uart8_DMA_RT.c:21:7:MyUart8_DMArecieve_IRQHandle	32	static
+Uart8_DMA_RT.c:41:6:PC_data_process	16	static
+Uart8_DMA_RT.c:54:6:MyUart8_DMArx_Init	16	static
+Uart8_DMA_RT.c:64:6:MyUart8_DMArx_Process	16	static

@@ -1,0 +1,10 @@
+close all;
+figure(1);
+plot(t,x(:,1),'r',t,x(:,3),'b','linewidth',2);
+xlabel('time(s)');ylabel('angle tracking');
+figure(2);
+plot(t,x(:,2),'r',t,x(:,4),'b','linewidth',2);
+xlabel('time(s)');ylabel('angle speed tracking');
+figure(3);
+plot(t,tol(:,1),'r','linewidth',2);
+xlabel('time(s)');ylabel('control input,u');
